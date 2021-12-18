@@ -1,0 +1,16 @@
+.div > p{
+    display: flex;
+    display: inline;
+    margin-right: 20px;
+}
+.div{
+    background-color: black;
+    width: 39rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div > p > a{
+    text-decoration: none;
+}
