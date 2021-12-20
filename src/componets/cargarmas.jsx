@@ -1,12 +1,11 @@
-import { Button } from "@material-ui/core";
+import { Boton } from './boton'
 
 export default function _(){
+    const nombre = 'este es el boton para cargar mas proyectos'
     return(
         <>
             <h1>cargar mas proyectos</h1>
-            <Button color="secondary" variant="contained" size="small">
-                este es el boton para cargar mas proyectos
-            </Button>
+            <Boton nombre={nombre}/>
         </>
         
     )
