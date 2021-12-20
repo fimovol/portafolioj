@@ -16,7 +16,9 @@ export default function _(){
     };
     return(
         <div style={myStyle}>
-            <h1>PORTAFOLIO</h1>
+            <h1 class="text-3xl font-bold underline">
+                Hello world!
+            </h1>
             <div>aqui unos puntos</div>
             <div>my nombre es javier</div>
             <Button color={primary} variant="contained" size="small">soy frontend developer</Button>

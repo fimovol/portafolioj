@@ -1,7 +1,8 @@
 .div > p{
     display: flex;
     display: inline;
-    margin-right: 20px;
+    margin-right: 60px;
+    font-size: 24px;
 }
 .div{
     background-color: black;
@@ -13,4 +14,5 @@
 }
 .div > p > a{
     text-decoration: none;
+    padding: 3px;
 }
