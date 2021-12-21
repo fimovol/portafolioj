@@ -6,7 +6,7 @@ export default function _(){
         <div className='grid grid-cols-1 bg-primario3'>
             <div>
                 <div className="flex flex-col items-center">
-                    <h1 class="text-7xl text-secundario2 font-bold underline place-content-start mt-5 font-mono uppercase">
+                    <h1 className="text-7xl text-secundario2 font-bold underline place-content-start mt-5 font-mono uppercase">
                         Hello
                     </h1>
                 <div className="text-secundario1 font-mono mt-5 text-4xl">aqui unos puntos</div>
