@@ -22,7 +22,9 @@ export default function _(){
                             image={array.image} 
                             name={array.name} 
                             species={array.species}
-                            created={array.created}/>
+                            created={array.created}
+                            url={array.url}
+                            />
                         )
                 }
             </ul>
