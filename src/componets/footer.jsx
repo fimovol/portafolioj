@@ -5,7 +5,7 @@ import Cargarmas from './cargarmas'
 
 export default function _(){
     return(
-        <div className='bg-primario3'>
+        <div className='bg-primario3 pb-7'>
             <Titulo/>
             <Navbarfooter/>
             <Imagenesmisproyectos/>

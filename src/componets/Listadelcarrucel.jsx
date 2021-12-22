@@ -3,7 +3,7 @@ export const ListadelCarrucel = ({image,name,species,created}) =>{
     return <li className="snap-center">
                 <div className="relative flex-shrink-0 max-w-[95vw] overflow-hidden rounded-3xl">
                     <img src={image} className="absolute inset-0 w-full h-full object-fill object-bottom"/>
-                    <div className="absolute inset-0 h-full w-full bg-gradient-to-br from-secundario1"></div>
+                    <div className="absolute inset-0 h-full w-full bg-gradient-to-br from-primario3"></div>
                     <div className="relative h-96 w-[768px] p-12 flex flex-col justify-between items-start">
                         <div>
                             <p className="font-medium text-secundario2">
