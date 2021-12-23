@@ -6,7 +6,6 @@ export default function _(){
             
             <Navbarlink nombre={'casa'} ruta={"#"}/>
             <Navbarlink nombre={'sobre mi'} ruta={"#"}/>
-            <Navbarlink nombre={'hola que tal jejeje'} ruta={"#"}/>
             <Navbarlink nombre={'blog'} ruta={"#"}/>
             <Navbarlink nombre={'contactame'} ruta={"#"}/>
 
