@@ -1,10 +1,8 @@
 mi descripcion debe ser buena y ven}derme bien
 
-cargar proyectos y mostralos en la pagina
+🤜🤜🤜🤜cargar proyectos y mostralos en la pagina
 
 boton cargar ms debe funcionar para cargar mas o redireccionar a github mi cuenta
-
-🤜🤜🤜🤜por alguan razon el diseño me parece orrible cambiemoslo pronto
 
 los links deben fuincionar demonios joder
 
