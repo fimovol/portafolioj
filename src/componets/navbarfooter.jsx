@@ -2,7 +2,7 @@ import { Navbarlink } from "./navbarlink";
 
 export default function _(){
     return(
-        <ul className="flex justify-center">
+        <ul className="flex items-center justify-center flex-wrap pb-6">
             <Navbarlink nombre={'todo'} ruta={'#'}/>
             <Navbarlink nombre={'html y css'} ruta={'#'}/>
             <Navbarlink nombre={'javascript'} ruta={'#'}/>

@@ -1,8 +1,8 @@
 export function Navbarlink({nombre,ruta}){
     return(
-        <li className="px-2 my-4">
-            <a href={ruta} className="hover:text-secundario2 hover:underline text-secundario1 text-xl transition-all">
-                <p className='font-mono'>
+        <li className="px-5 py-2">
+            <a href={ruta} className="hover:text-primario2 hover:underline text-secundario1 text-xl transition-all">
+                <p className='font-mono inline'>
                     {nombre}
                 </p>
             </a>

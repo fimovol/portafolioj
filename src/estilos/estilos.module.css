@@ -1,0 +1,21 @@
+
+.hola{
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    border-right: 3px solid;
+    width: 20ch;
+    animation: typing 2.5s steps(20),blink .5s infinite step-end alternate;
+    overflow: hidden;
+    font-size: 7rem;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    margin-bottom: 1.25rem/* 20px */;
+}
+@keyframes typing{
+    from { width: 0;}
+}
+@keyframes blink{
+    50%{ border-color: transparent;}
+}
