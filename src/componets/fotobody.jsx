@@ -13,7 +13,7 @@ export default function _(){
     
     return(
         <div className=" relative">
-            <h1 className="text-4xl font-mono mt-14 w-full flex justify-center underlin uppercase">ejemplo obtener datos de api rick y morty</h1>
+            <h1 className="text-4xl font-mono mt-14 w-full flex justify-center underlin uppercase text-secundario1">ejemplo obtener datos de api rick y morty</h1>
             <ul className="mt-10 pb-8 px-[50vw] w-full flex overflow-x-auto gap-8 snap-x">
                 {
                     hola.map( array =>
