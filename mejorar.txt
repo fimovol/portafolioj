@@ -1,7 +1,5 @@
 mi descripcion debe ser buena y ven}derme bien
 
-🤜🤜🤜🤜cargar proyectos y mostralos en la pagina
-
 boton cargar ms debe funcionar para cargar mas o redireccionar a github mi cuenta
 
 los links deben fuincionar demonios joder
@@ -16,4 +14,4 @@ sobre mi en la parte de arriba debe levart  a la parte de abajo donde hablo e mi
 
 casa en la parte de arriba es un link qeu no lleba a nada solo a la misma pagina es para rellenar
 
-agregar animacion a contactame y que redirija a la misma sección con mis datos de contacto
+🤜🤜🤜🤜 agregar animacion a contactame y que redirija a la misma sección con mis datos de contacto
