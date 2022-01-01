@@ -1,7 +1,7 @@
 export default function _(){
   return(
     <button>
-            este es un boton
+      este es un boton
     </button>
   )
 }
@@ -9,7 +9,7 @@ export default function _(){
 export function Botondos(){
   return(
     <button>
-                este es un boton dosDOS
+      este es un boton dosDOS
     </button>
   )
 }
