@@ -3,23 +3,23 @@ import {Boton} from './boton'
 import * as containerStyles from '../estilos/estilos.module.css'
 export default function _(){
 
-    return(
-        <div className='grid grid-cols-1 place-items-center w-full h-full' >
-            <div>
-                <div className="flex flex-col items-center">
-                    <h1 className="text-7xl text-secundario2 font-bold underline place-content-start font-mono uppercase">
+  return(
+    <div className='grid grid-cols-1 place-items-center w-full h-full' >
+      <div>
+        <div className="flex flex-col items-center">
+          <h1 className="text-7xl text-secundario2 font-bold underline place-content-start font-mono uppercase">
                         Hello
-                    </h1>
-                <div className="text-secundario1 font-mono mt-5 text-4xl">aqui unos puntos</div>
-                </div>
-            </div>
-            <div>
-                <div className="flex justify-center items-center flex-col">
-                    
-                    <div className={containerStyles.hola}>my nombre es javier</div>
-                    <Boton nombre={'soy frontend developer'}/>
-                </div>
-            </div>
+          </h1>
+          <div className="text-secundario1 font-mono mt-5 text-4xl">aqui unos puntos</div>
         </div>
-    )
+      </div>
+      <div>
+        <div className="flex justify-center items-center flex-col">
+                    
+          <div className={containerStyles.hola}>my nombre es javier</div>
+          <Boton nombre={'soy frontend developer'}/>
+        </div>
+      </div>
+    </div>
+  )
 }

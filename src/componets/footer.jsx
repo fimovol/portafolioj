@@ -5,13 +5,13 @@ import Cargarmas from './cargarmas'
 import Github from './githubredirect'
 
 export default function _(){
-    return(
-        <div className='pb-7'>
-            <Titulo/>
-            <Navbarfooter/>
-            <Imagenesmisproyectos/>
-            <Cargarmas/>
-            <Github/>
-        </div>
-    )
+  return(
+    <div className='pb-7'>
+      <Titulo/>
+      <Navbarfooter/>
+      <Imagenesmisproyectos/>
+      <Cargarmas/>
+      <Github/>
+    </div>
+  )
 }
