@@ -2,7 +2,7 @@ import {Navbarlink} from './navbarlink'
 
 export default function _(){
   return (
-    <ul className='flex space-x-5 items-center justify-center pb-6'>
+    <ul className='flex lg:space-x-8 items-center justify-center pb-6 sm:space-x-1'>
             
       <Navbarlink nombre={'casa'} ruta={'/home'}/>
       <Navbarlink nombre={'sobre mi'} ruta={'/about'}/>
