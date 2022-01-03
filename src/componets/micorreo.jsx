@@ -1,5 +1,6 @@
+import {Boton} from './boton'
 export default function _(){
   return  <div>
-    <a href="mailto:javiersanchezch@outlook.es">este es mi correo jeje</a>
+    <Boton nombre={'este es mi correo 📧'} url={'mailto:javiersanchezch@outlook.es'}/>
   </div>
 }
