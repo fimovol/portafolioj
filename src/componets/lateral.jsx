@@ -17,7 +17,7 @@ export default function _(){
         <div className="flex justify-center items-center flex-col">
                     
           <div className={containerStyles.hola}>my nombre es javier</div>
-          <Boton nombre={'mira lo que puedo hacer'}/>
+          <Boton nombre={'mira lo que puedo hacer'} urllink={'/quepuedohacer'}/>
         </div>
       </div>
     </div>
