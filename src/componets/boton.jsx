@@ -20,7 +20,7 @@ export function Boton({nombre,url}){
     </button>
   )
   if(url){
-    return <a href={url}>
+    return <a href={url} target="_blank" rel="noreferrer">
       {botonconestilos}
     </a>
   }
