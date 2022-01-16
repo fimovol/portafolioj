@@ -3,6 +3,7 @@ import Navbarfooter from './navbarfooter'
 import Imagenesmisproyectos from './imagenesmisproyectos'
 import Cargarmas from './cargarmas'
 import Github from './githubredirect'
+import Descripcion from './descipcion'
 
 export default function _(){
   return(
@@ -11,6 +12,7 @@ export default function _(){
       <Navbarfooter/>
       <Imagenesmisproyectos/>
       <Cargarmas/>
+      <Descripcion/>
       <Github/>
     </div>
   )
