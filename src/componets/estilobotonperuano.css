@@ -1,0 +1,41 @@
+.boton{
+    display: flex;
+    height: 50px;
+    width: 200px;
+    transition: all 0.1s;
+    border-radius: 50%;
+}
+.boton:active{
+    height: 40px;
+    width: 180px;
+    box-shadow: 0px 0px 68px 21px rgba(255,0,0,0.50);
+}
+
+.rojo{
+    background-color: rgba(255,0,0);
+    height: 100%;
+    width: 33.3%;
+    display: inline-block;
+}
+.izquierda{
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.derecha{
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.dentro{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 200px;
+}
+.blanco{
+    background: rgb(255, 255, 255);
+    height: 100%;
+    width: 33.3%;
+    display: inline-block;
+}

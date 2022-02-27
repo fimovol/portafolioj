@@ -4,6 +4,7 @@ import Imagenesmisproyectos from './imagenesmisproyectos'
 import Cargarmas from './cargarmas'
 import Github from './githubredirect'
 import Descripcion from './descipcion'
+import Botonperuano from './botonperuano'
 
 export default function _(){
   return(
@@ -14,6 +15,10 @@ export default function _(){
       <Cargarmas/>
       <Descripcion/>
       <Github/>
+      <div className='flex items-center justify-center mt-5'>
+        <Botonperuano/>
+      </div>
+      
     </div>
   )
 }
